@@ -56,6 +56,11 @@ button {
   text-align: center;
 }
 
+span {
+  display: block;
+  margin: 0 auto;
+}
+
 .loader {
   width: 48px;
   height: 48px;
